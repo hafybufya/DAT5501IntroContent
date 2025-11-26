@@ -15,5 +15,6 @@ This repository was created during Week 1 of the DAT5501 to practisce and learn 
 ```
 # 🛠️ Installation
 Python 3.10 or newer to run python files 
+* No external python libraries required
 
 
